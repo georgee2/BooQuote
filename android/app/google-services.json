@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1081524868798",
+    "project_id": "booquote-e21da",
+    "storage_bucket": "booquote-e21da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081524868798:android:8f12d755b0cf8d15f4f0ef",
+        "android_client_info": {
+          "package_name": "com.george.final_booquote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081524868798-p3odkq06d3pclhntcducafmttnalc5si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEDr4by2aYRuh99N7Kpt4jIKVNc081NRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081524868798-p3odkq06d3pclhntcducafmttnalc5si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
